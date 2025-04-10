@@ -1,0 +1,15 @@
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\laundry.project.csproj.AssemblyReference.cache
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\laundry.project.GeneratedMSBuildEditorConfig.editorconfig
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\laundry.project.AssemblyInfoInputs.cache
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\laundry.project.AssemblyInfo.cs
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\laundry.project.csproj.CoreCompileInputs.cache
+E:\laundry.Solution\laundry.project\bin\Debug\net6.0\laundry.project.exe
+E:\laundry.Solution\laundry.project\bin\Debug\net6.0\laundry.project.deps.json
+E:\laundry.Solution\laundry.project\bin\Debug\net6.0\laundry.project.runtimeconfig.json
+E:\laundry.Solution\laundry.project\bin\Debug\net6.0\laundry.project.dll
+E:\laundry.Solution\laundry.project\bin\Debug\net6.0\laundry.project.pdb
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\laundry.project.dll
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\refint\laundry.project.dll
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\laundry.project.pdb
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\laundry.project.genruntimeconfig.cache
+E:\laundry.Solution\laundry.project\obj\Debug\net6.0\ref\laundry.project.dll
