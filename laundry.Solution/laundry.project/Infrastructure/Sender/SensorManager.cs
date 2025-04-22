@@ -23,10 +23,10 @@ namespace laundry.project.Infrastructure.Sender
             int value = GetSensorValue( input);
             switch (value)
             {
-                case 0:return MachineState.A;
-                case 5: return MachineState.D; 
-                case 10: return MachineState.C; 
-                default : return MachineState.I; 
+                case 0:return MachineState.Stopped;
+                case 5: return MachineState.Started; 
+                case 10: return MachineState.InCycle; 
+                default : return MachineState.Undefined; 
             }
         }
     }

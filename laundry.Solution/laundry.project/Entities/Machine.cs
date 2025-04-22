@@ -10,7 +10,6 @@ namespace laundry.project.Entities
         List<Cycle> _cycles;
         System.Timers.Timer _timer_timer;
         
-
         public string IdMachine { get => _idMachine; set => _idMachine = value; }
         public int Input { get => _input; set => _input = value; }
         public System.Timers.Timer Timer_timer { get => _timer_timer; set => _timer_timer = value; }

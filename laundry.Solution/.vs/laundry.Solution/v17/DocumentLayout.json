@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\laundry-project\\IOTCourses\\laundry.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B36FD4AD-CB73-42ED-B52D-60C6E0403DD4}|laundry.project\\laundry.project.csproj|d:\\laundry-project\\iotcourses\\laundry.solution\\laundry.project\\infrastructure\\azureiothubsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36FD4AD-CB73-42ED-B52D-60C6E0403DD4}|laundry.project\\laundry.project.csproj|solutionrelative:laundry.project\\infrastructure\\azureiothubsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36FD4AD-CB73-42ED-B52D-60C6E0403DD4}|laundry.project\\laundry.project.csproj|d:\\laundry-project\\iotcourses\\laundry.solution\\laundry.project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36FD4AD-CB73-42ED-B52D-60C6E0403DD4}|laundry.project\\laundry.project.csproj|solutionrelative:laundry.project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzureIoTHubSender.cs",
+              "DocumentMoniker": "D:\\laundry-project\\IOTCourses\\laundry.Solution\\laundry.project\\Infrastructure\\AzureIoTHubSender.cs",
+              "RelativeDocumentMoniker": "laundry.project\\Infrastructure\\AzureIoTHubSender.cs",
+              "ToolTip": "D:\\laundry-project\\IOTCourses\\laundry.Solution\\laundry.project\\Infrastructure\\AzureIoTHubSender.cs",
+              "RelativeToolTip": "laundry.project\\Infrastructure\\AzureIoTHubSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:55:28.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\laundry-project\\IOTCourses\\laundry.Solution\\laundry.project\\Program.cs",
+              "RelativeDocumentMoniker": "laundry.project\\Program.cs",
+              "ToolTip": "D:\\laundry-project\\IOTCourses\\laundry.Solution\\laundry.project\\Program.cs",
+              "RelativeToolTip": "laundry.project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:55:24.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
